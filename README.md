@@ -58,7 +58,8 @@ npm run build
 Edit the `index.html` file and add additional `<link>` references to stylesheets:
 
 ```html
-<link rel="stylesheet" type="text/css" href="/src/styles/index.scss">
+
+<link rel="stylesheet" type="text/css" href="/src/styles/app.scss">
 ```
 
 You can specify `css`, `scss`, and `sass` files here, and they will be compiled and minified as necessary. These styles
